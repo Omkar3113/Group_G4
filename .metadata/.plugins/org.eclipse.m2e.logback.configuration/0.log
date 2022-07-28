@@ -9,3 +9,24 @@
 2022-07-28 23:38:57,867 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\Velocity Class (9th April Batch)\April09DalatStreetInvestmentBanking\src\main\resources
 2022-07-28 23:38:57,869 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2022-07-28 23:38:57,870 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\Velocity Class (9th April Batch)\April09DalatStreetInvestmentBanking\src\test\resources
+2022-07-29 00:15:46,232 [Worker-4: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2022-07-29 00:15:51,380 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-29 00:15:51,381 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\Velocity Class (9th April Batch)\April09DalatStreetInvestmentBanking\src\main\resources
+2022-07-29 00:15:51,385 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-29 00:15:51,385 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\Velocity Class (9th April Batch)\April09DalatStreetInvestmentBanking\src\test\resources
+2022-07-29 00:17:14,885 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-29 00:17:14,887 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\Velocity Class (9th April Batch)\April09DalatStreetInvestmentBanking\src\main\resources
+2022-07-29 00:17:14,887 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-29 00:17:14,887 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\Velocity Class (9th April Batch)\April09DalatStreetInvestmentBanking\src\test\resources
+2022-07-29 00:17:24,835 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-29 00:17:24,836 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\Velocity Class (9th April Batch)\April09DalatStreetInvestmentBanking\src\main\resources
+2022-07-29 00:17:24,837 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-29 00:17:24,837 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\Velocity Class (9th April Batch)\April09DalatStreetInvestmentBanking\src\test\resources
+2022-07-29 00:17:25,882 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-29 00:17:25,882 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\Velocity Class (9th April Batch)\April09DalatStreetInvestmentBanking\src\main\resources
+2022-07-29 00:17:25,884 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-29 00:17:25,884 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\Velocity Class (9th April Batch)\April09DalatStreetInvestmentBanking\src\test\resources
+2022-07-29 00:17:41,041 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-29 00:17:41,042 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\Velocity Class (9th April Batch)\April09DalatStreetInvestmentBanking\src\main\resources
+2022-07-29 00:17:41,043 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-29 00:17:41,043 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\Velocity Class (9th April Batch)\April09DalatStreetInvestmentBanking\src\test\resources
